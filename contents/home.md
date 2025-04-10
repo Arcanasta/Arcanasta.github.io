@@ -1,4 +1,4 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![Arcanasta](https://img.shields.io/badge/Arcanasta-github-blue?logo=github)](https://github.com/Arcanasta)
 
 I am currently studying for my undergraduate degree at Hefei University of Technology
 
